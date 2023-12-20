@@ -1,0 +1,7 @@
+items:
+- title: 'Availability'
+  url: '/calendar'
+- title: 'faqs'
+  url: '/faqs'
+- title: 'About Us'
+  url: '/about'

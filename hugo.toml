@@ -1,0 +1,43 @@
+languageCode = "en-us"
+title = "Northern Exposure Saunas"
+baseURL = "http://127.0.0.1:1313/"
+#theme = ""
+googleanalytics = ""
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
+# [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+  # set to change date format
+  # dateFormat = "2.1.2006"
+backgroundPath = "images/bg.jpg"
+
+# Below parameters can be set to override default post settings
+# [params.posts]
+#     folderName = "post"
+#     pageSize = "6"
+#     featuredPost = "true"
+#     paginationPages = 2
+#     showFirstLast = false
+ 
+[languages]
+[languages.en]
+  languageName = "English"
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'About Us'
+  url = '/about'
+[[menu.main]]
+  identifier = 'calendar'
+  name = 'Calendar'
+  url = '/Calendar'
+[[menu.main]]
+  identifier = 'faqs'
+  name = 'faqs'
+  url = '/faqs'
