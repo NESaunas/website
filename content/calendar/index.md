@@ -7,4 +7,16 @@ draft = false
 
 <div style="background:#fff;max-width:628px;"><iframe src="https://www.availcalendar.com/print/21257" width="100%" height="470" frameborder="0" scrolling="no"></iframe></div>
 -->
-<div style="background:#fff;width:628px;"><iframe src="https://www.availcalendar.com/print/21257?mode=3" width="628" height="251" frameborder="0" scrolling="no"></iframe></div>
+<section class=post>
+
+## 6 Person Cedar Barrel Sauna Availability
+
+<div style="background:#fff;width:212px;"><iframe src="https://www.availcalendar.com/print/21257?mode=5" width="212" height="251" frameborder="0" scrolling="no"></iframe></div>
+
+</section>
+
+<section class=post>
+
+## 4 Person Cedar Barrel Sauna Availability - TBD
+
+</section>

@@ -1,7 +1,7 @@
 items:
 - title: 'Availability'
   url: '/calendar'
+- title: 'Pricing'
+  url: '/pricing'
 - title: 'faqs'
   url: '/faqs'
-- title: 'About Us'
-  url: '/about'

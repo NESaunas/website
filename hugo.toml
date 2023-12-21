@@ -30,9 +30,9 @@ backgroundPath = "images/bg.jpg"
 
 [menu]
 [[menu.main]]
-  identifier = 'about'
-  name = 'About Us'
-  url = '/about'
+  identifier = 'pricing'
+  name = 'Pricing'
+  url = '/Pricing'
 [[menu.main]]
   identifier = 'calendar'
   name = 'Calendar'
