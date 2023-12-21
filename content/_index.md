@@ -1,6 +1,6 @@
 ## Who we are
 
-Northern Exposure Saunas is owned and run by portage county locals Jake Damask and Isaac Trzebiatowski. What started as just a desire to enjoy health benefits and some polar plunges turned into a business idea.
+Northern Exposure Saunas is owned and run by central Wisconsin locals Jake Damask and Isaac Trzebiatowski. What started as just a desire to enjoy health benefits and some polar plunges turned into a business idea.
 
 Over the past few years, the sauna has been enjoyed by family and friends. We have always wanted to reach more people so others are able to enjoy the benefits and joy from the sauna experience without having to purchase everything on your own. Northern exposure saunas allows you to have a stress free, hassle free, sauna experience delivered right to your door step.
 
