@@ -2,8 +2,8 @@
   other = "Address"
 [CONTACT_EMAIL]
   other = "Email"
-[CONTACT_FORM_FIELD_EMAIL]
-  other = "Email"
+[CONTACT_FORM_FIELD_ADD]
+  other = "Address"
 [CONTACT_FORM_FIELD_PHONE]
   other = "Phone Number"
 [CONTACT_FORM_FIELD_START]

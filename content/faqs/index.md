@@ -14,14 +14,14 @@ draft = false
 - We provide the Sauna, plenty of firewood for the duration of your rental, and basic lighting.
 - We also provide a cold tub and extra wood upon request.
 
-### Do you offer a discount?
-- Currently we will give a 3% discount if you pay by cash or check. 
-
 ### What do I need to provide?
 - Bring lots of water to hydrate and a towel. Maybe invite a few friends and family as well. :) 
 - A level 9' x 10' area will be needed to park the sauna for the duration of the rental.
 
 ### Will you show me how to run the sauna?
 - Yes, We arrive and setup the sauna space. We will even help you fire it up if you would like. 
+
+### Do you offer a discount?
+- Currently we will give a 3% discount if you pay by cash or check. 
 
 </section>

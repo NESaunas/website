@@ -1,13 +1,13 @@
 +++
 draft = false
 +++
-<!--
-<iframe src="https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/7a4615a1-9e4c-4f18-a3db-b12ba5a411a7/cid-544D0ED60464181A/index.html" width="100%" height="500px"title="NES Calendar"> 
-</iframe>
 
-<div style="background:#fff;max-width:628px;"><iframe src="https://www.availcalendar.com/print/21257" width="100%" height="470" frameborder="0" scrolling="no"></iframe></div>
--->
 <section class=post>
+
+1. Pick out a couple days that are available (green) and give us a ring, message, or use the contact form below. **Prioritization will be given to longer rentals.**
+2. If you would like to rent over a weekend, a minimum of two days will be required. 
+3. Pickup and drop off times can be flexible. Just let us know and we can almost always accomodate. 
+
 
 ## 6 Person Cedar Barrel Sauna Availability
 
