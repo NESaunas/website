@@ -6,6 +6,8 @@
   other = "Address"
 [CONTACT_FORM_FIELD_PHONE]
   other = "Phone Number"
+[CONTACT_FORM_FIELD_EMAIL]
+  other = "Email"
 [CONTACT_FORM_FIELD_START]
   other = "Start Date"
 [CONTACT_FORM_FIELD_DURATION]
